@@ -2,25 +2,85 @@
 
 ![SGPPTeapot](images/SGPTeapot.png)
 
-Articles, links, snippets, and useful resources for the Graphics Programming community
+Articles, links, snippets, and useful resources for the Graphics Programming community.
 
-# The Art Side
+So, in no particular order, we present the following:
 
-## 3D DCC Tools
+
+## Tools
+---
+
+### Graphic Applications
+
+- [Autodesk Maya](https://www.autodesk.ca/en/products/maya/overview)
+- [Autodesk 3D Studio Max](https://www.autodesk.ca/en/products/3ds-max/overview)
+- [Blender](https://www.blender.org/)
+- [Lightwave 3D](https://www.lightwave3d.com/)
+- [Modo](https://www.foundry.com/products/modo)
+
+#### Learning
 
 - [Beginners Guide To Learning 3D Graphics (Blender)](https://www.youtube.com/playlist?list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P&disable_polymer=true)
 
-## Books And Their Web Resources
+### C++
 
+- [C++ Builder](https://www.embarcadero.com/products/cbuilder)
+- [CLion](https://www.jetbrains.com/clion/)
+- [Eclipse](https://eclipse.org/) or [Cevelop](https://www.cevelop.com/)
+- [KDevelop](https://www.kdevelop.org/)
+- [Microsoft Visual Studio (Community)](https://www.visualstudio.com/vs/community/)
+- [NetBeans](https://netbeans.org/)
+- [SlickEdit](https://www.slickedit.com/)
+- [XCode (OSX)](https://developer.apple.com/xcode/)
+
+### General Purpose Text Editors
+
+- [Atom](https://atom.io/)
+- [Brackets](http://brackets.io/)
+- [Coda](https://www.panic.com/coda/)
+- [emacs](http://www.gnu.org/software/emacs/)
+- [Light Table](http://lighttable.com/)
+- [nano](https://www.nano-editor.org/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [Sublime Text](http://www.sublimetext.com/)
+- [UltraEdit](https://www.ultraedit.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Vim](https://vim.sourceforge.io/)
+
+
+## Books And Their Web Resources
+---
+
+- [Anton's OpenGL4 Tutorials](http://antongerdelan.net/opengl/#ebook)
 - [Computer Graphics: Principles and Practice](http://dept.cs.williams.edu/~morgan/cgpp/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
-- [Anton's OpenGL4 Tutorials](http://antongerdelan.net/opengl/#ebook)
 
 ## Engines / SDKs
+---
 
 ### Engines
 
+- [Amazon Lumberyard](https://aws.amazon.com/lumberyard/)
+- [Autodesk Stringray](https://www.autodesk.com/products/stingray/overview)
+- [Banshee 3D](http://www.banshee3d.com/)
+- [Fabric Engine](http://fabricengine.com/)
+- [Falcor (NVidia)](https://github.com/nvidiagameworks/falcor)
+- [Intrinsic](http://www.intrinsic-engine.com/)
+- [Unreal Engine](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
+- [Unity 3D](https://unity3d.com/)
+- [Urho3D](https://github.com/urho3d/Urho3D)
+
+### Rendering / General Purpose SDKs
+- [BGFX Github source](https://github.com/bkaradzic/bgfx) as well as [documentation here](https://bkaradzic.github.io/bgfx/overview.html)
+- [Cinder](https://libcinder.org/)
+- [Epoxy (Successor to GLEW)](https://github.com/anholt/libepoxy)
 - [G3D](http://casual-effects.com/g3d/) and the corresponding [Graphics Code](http://graphicscodex.com/projects/projects/)
+- [GLFW](http://www.glfw.org/)
+- [Magnum](https://github.com/mosra/magnum)
+- [Ogre3D](http://www.ogre3d.org/)
+- [OpenFrameworks](http://openframeworks.cc/)
+- [SDL](https://www.libsdl.org/index.php)
+- [SFML](https://www.sfml-dev.org/)
 
 ### OpenGL
 
@@ -59,6 +119,7 @@ Articles, links, snippets, and useful resources for the Graphics Programming com
 - [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
 
 ## Programming
+---
 
 ### Shaders
 
@@ -81,8 +142,8 @@ Articles, links, snippets, and useful resources for the Graphics Programming com
 
 - [Introduction to C# Graphics](https://github.com/Nuclearfossil/IntroToCSharpGraphics)
 
-
 ## Siggraph Articles
+---
 
 ### 2017
 
@@ -103,17 +164,6 @@ Articles, links, snippets, and useful resources for the Graphics Programming com
 - [Intel's Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 - [x86-64 optimization papers](http://www.agner.org/optimize/#manuals)
 - [UC Davis Introduction to Computer Graphics](https://youtu.be/01YSK5gIEYQ)
-
-## Tools
-
-### C++
-
-- [Microsoft Visual Studio (Community)](https://www.visualstudio.com/vs/community/)
-
-### General Purpose Text Editors
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-
 
 ## Code Of Conduct
 
