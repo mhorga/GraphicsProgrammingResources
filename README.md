@@ -55,6 +55,7 @@ So, in no particular order, we present the following:
 - [Computer Graphics: Principles and Practice](http://dept.cs.williams.edu/~morgan/cgpp/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
 
+
 ## Engines / SDKs
 ---
 
@@ -81,6 +82,10 @@ So, in no particular order, we present the following:
 - [OpenFrameworks](http://openframeworks.cc/)
 - [SDL](https://www.libsdl.org/index.php)
 - [SFML](https://www.sfml-dev.org/)
+
+
+## APIs
+---
 
 ### OpenGL
 
@@ -118,6 +123,17 @@ So, in no particular order, we present the following:
 - [Oculus VR SDK: Minimal Vulkan Sample](http://vulkano.rs/guide/introduction)
 - [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
 
+
+### Metal
+
+#### Tutorials
+
+- [Metal By Example (blog)](http://metalbyexample.com/)
+- [Metal By Example (book)](https://gumroad.com/l/metalbyexample/)
+- [The Metal Framework](http://metalkit.org/)
+- [Ray Wenderlich tutorials](https://www.raywenderlich.com/?s=metal)
+
+
 ## Programming
 ---
 
@@ -142,6 +158,7 @@ So, in no particular order, we present the following:
 
 - [Introduction to C# Graphics](https://github.com/Nuclearfossil/IntroToCSharpGraphics)
 
+
 ## Siggraph Articles
 ---
 
@@ -149,21 +166,25 @@ So, in no particular order, we present the following:
 
 - [Advances in Real-Time Rendering in Games](http://advances.realtimerendering.com/s2017/index.html)
 
+
 ## WebGL
 
 - [WebGL Insights: Free PDF version of the book](http://webglinsights.com)
 - [Hackery, Math & Design](http://acko.net)
+
 
 ## Math
 
 - [Immersive Math: Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 - [Linear Interpolation - Past, Present and Future](https://fgiesen.wordpress.com/2012/08/15/linear-interpolation-past-present-and-future/)
 
+
 ## Various
 
 - [Intel's Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)
 - [x86-64 optimization papers](http://www.agner.org/optimize/#manuals)
 - [UC Davis Introduction to Computer Graphics](https://youtu.be/01YSK5gIEYQ)
+
 
 ## Code Of Conduct
 
