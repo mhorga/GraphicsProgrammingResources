@@ -128,6 +128,8 @@ So, in no particular order, we present the following:
 
 #### Tutorials
 
+- [Metal By Tutorials (ebook + source code)](https://store.raywenderlich.com/products/metal-by-tutorials)
+- [Metal By Tutorials (printed book)](https://www.amazon.com/Metal-Tutorials-Beginning-engine-development/dp/1942878540)
 - [Metal By Example (blog)](http://metalbyexample.com/)
 - [Metal By Example (book)](https://gumroad.com/l/metalbyexample/)
 - [The Metal Framework](http://metalkit.org/)
